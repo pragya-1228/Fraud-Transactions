@@ -1,6 +1,6 @@
 # 💳 Fraud Detection for Blocker Fraud Company
 
-This project is a Data Science & Machine Learning internship solution for the **Blocker Fraud Company**, which specializes in detecting fraudulent mobile financial transactions. The model was designed to maximize business value using high-performance machine learning techniques and risk-based cost modeling.
+This project is a Data Science & Machine Learning solution for the **Blocker Fraud Company**, which specializes in detecting fraudulent mobile financial transactions. The model was designed to maximize business value using high-performance machine learning techniques and risk-based cost modeling.
 
 ---
 
